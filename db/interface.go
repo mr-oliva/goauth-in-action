@@ -1,3 +1,5 @@
+// Package db provides features like nosql library
+// nosql libraly: https://github.com/petersirka/nosql
 package db
 
 type DB interface {
